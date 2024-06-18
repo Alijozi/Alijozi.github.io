@@ -3,4 +3,4 @@
 
 this is my first project for online courses CS50x 
 
-access to website:
+access to website: https://alijozi.github.io/
